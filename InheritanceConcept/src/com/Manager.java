@@ -9,6 +9,6 @@ private int numberOfEmp;
 	
 	void disManager()	{
 //		System.out.println("Manager Information ");
-		System.out.println("The Number of employee is "+this.numberOfEmp);
+		System.out.println("The number of employee is "+this.numberOfEmp);
 	}
 }
